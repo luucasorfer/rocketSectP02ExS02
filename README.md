@@ -1,4 +1,4 @@
-<h1 align="center"><img alt="logo" src="./assets/img-readme/logo.svg"></h1>
+<h1 align="center"><img alt="logo" src="./assets/img-readme/logo.svg" style="width: 250px"></h1>
 
 <p align="center">
 Este projeto é exclusivo do curso Explorer, promovido pela Rocketseat para ensino de tecnologias WEB. </br>
